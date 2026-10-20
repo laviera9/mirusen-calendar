@@ -1,0 +1,60 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mirusen calendar//JP
+X-WR-CALNAME:みるせんっ！ ライブ
+X-WR-TIMEZONE:Asia/Tokyo
+BEGIN:VEVENT
+SUMMARY:みるせんっ！ ライブ予定（詳細未発表）
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+DTSTAMP:20261020T132448Z
+UID:mirusen-2026-10-24-0@laviera9.github.io
+DESCRIPTION:詳細未発表\n出典: https://x.com/mirusen_idol
+LOCATION:未発表
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:みるせんっ！ ライブ予定（詳細未発表）
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+DTSTAMP:20261020T132448Z
+UID:mirusen-2026-10-25-1@laviera9.github.io
+DESCRIPTION:詳細未発表\n出典: https://x.com/mirusen_idol
+LOCATION:未発表
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:みるせんっ！ ICFG〜偶像文化推し娘〜ハロウィンS
+ P
+DTSTART;TZID=Asia/Tokyo:20261031T102000
+DTEND;TZID=Asia/Tokyo:20261031T104000
+DTSTAMP:20261020T132448Z
+UID:mirusen-2026-10-31-2@laviera9.github.io
+DESCRIPTION:開場09:30 / 開演10:00\nみるせんっ！出番 10:20\n料
+ 金: 3\,000円（当日+1\,000円）\nチケット: https://t-dv.com/ICFG-
+ HalloweenSP-2Venues\n出典: https://x.com/mirusen_idol/status/21121460452
+ 83274835
+LOCATION:shibuya THE GAME
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:みるせんっ！ IDOL CONVENTION vol.5
+DTSTART;TZID=Asia/Tokyo:20261101T111500
+DTEND;TZID=Asia/Tokyo:20261101T131500
+DTSTAMP:20261020T132448Z
+UID:mirusen-2026-11-01-3@laviera9.github.io
+DESCRIPTION:開場11:00 / 開演11:15\n料金: 通常3\,000円／前方5\,
+ 500円（当日+1\,000円・+1D）\nチケット: https://paylove.org/even
+ ts/1784\n出典: https://x.com/mirusen_idol/status/2112499816668483884
+LOCATION:YOKOHAMA COAST garage +
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:みるせんっ！ 無銭ぷろじぇくと!! vol.115
+DTSTART;TZID=Asia/Tokyo:20261103T125000
+DTEND;TZID=Asia/Tokyo:20261103T131000
+DTSTAMP:20261020T132448Z
+UID:mirusen-2026-11-03-4@laviera9.github.io
+DESCRIPTION:開場09:40 / 開演09:50\nみるせんっ！出番 12:50\n料
+ 金: 通常0円／前方2\,500円（当日+1\,000円・+2D）\nチケッ
+ ト: https://paylove.org/events/1786\n出典: https://x.com/mirusen_idol/s
+ tatus/2112148191928029445
+LOCATION:GOTANDA G6
+END:VEVENT
+END:VCALENDAR
