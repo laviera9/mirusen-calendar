@@ -4,32 +4,47 @@ PRODID:-//mirusen calendar//JP
 X-WR-CALNAME:みるせんっ！ ライブ
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-SUMMARY:みるせんっ！ ライブ予定（詳細未発表）
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DTSTAMP:20261020T230105Z
+SUMMARY:みるせんっ！ KIRA KIRA de Fes mini !!
+DTSTART;TZID=Asia/Tokyo:20261024T104000
+DTEND;TZID=Asia/Tokyo:20261024T124000
+DTSTAMP:20261022T230118Z
 UID:mirusen-2026-10-24-0@laviera9.github.io
-DESCRIPTION:詳細未発表\n出典: https://x.com/mirusen_idol
-LOCATION:未発表
+DESCRIPTION:開場10:25 / 開演10:40\n料金: 最前5\,000円／前方2\,0
+ 00円／通常0円（当日各+500円）\nチケット: https://ticketdive
+ .com/event/KIRAKIRAdeFesmini20261024\n出典: https://x.com/mirusen_idol/s
+ tatus/2113072851074891920
+LOCATION:上野AL-TEMA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:みるせんっ！ Idol PiT Halloween GirlsRush（1部）
-DTSTART;TZID=Asia/Tokyo:20261025T115000
-DTEND;TZID=Asia/Tokyo:20261025T135000
-DTSTAMP:20261020T230105Z
+DTSTART;TZID=Asia/Tokyo:20261025T134500
+DTEND;TZID=Asia/Tokyo:20261025T140500
+DTSTAMP:20261022T230118Z
 UID:mirusen-2026-10-25-1@laviera9.github.io
-DESCRIPTION:開場11:35 / 開演11:50\n料金: 1部 前方S 3\,000円／後
- 方A 2\,000円（女性割引あり・+1D 600円）\nチケット: https:/
- /tiget.net/events/529247\n出典: https://x.com/idol_pit/status/2112546722
- 060890377
+DESCRIPTION:開場11:35 / 開演11:50\nみるせんっ！出番 13:45\n料
+ 金: 1部 前方S 3\,000円／後方A 2\,000円（女性割引あり・+1D
+  600円）\nチケット: https://tiget.net/events/529247\n出典: https:/
+ /x.com/mirusen_idol/status/2113072835031879936
 LOCATION:代々木ミューズホール
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:みるせんっ！ IDOL SPIRITS 10月特別号SPハロウィン編
+DTSTART;TZID=Asia/Tokyo:20261025T172000
+DTEND;TZID=Asia/Tokyo:20261025T174000
+DTSTAMP:20261022T230118Z
+UID:mirusen-2026-10-25-2@laviera9.github.io
+DESCRIPTION:開場12:10 / 開演12:30\nみるせんっ！出番 17:20\n料
+ 金: 前方優先3\,000円／一般2\,000円（+1D・当日+700円）\nチ
+ ケット: https://ticketdive.com/event/IDOLSPIRITSSP10-25\n出典: https:
+ //x.com/mirusen_idol/status/2113211114150609157
+LOCATION:KMAパラダイスホール
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:みるせんっ！ ICFG〜偶像文化推し娘〜ハロウィンSP
 DTSTART;TZID=Asia/Tokyo:20261031T102000
 DTEND;TZID=Asia/Tokyo:20261031T104000
-DTSTAMP:20261020T230105Z
-UID:mirusen-2026-10-31-2@laviera9.github.io
+DTSTAMP:20261022T230118Z
+UID:mirusen-2026-10-31-3@laviera9.github.io
 DESCRIPTION:開場09:30 / 開演10:00\nみるせんっ！出番 10:20\n料
  金: 3\,000円（当日+1\,000円）\nチケット: https://t-dv.com/ICFG-
  HalloweenSP-2Venues\n出典: https://x.com/mirusen_idol/status/21121460452
@@ -40,8 +55,8 @@ BEGIN:VEVENT
 SUMMARY:みるせんっ！ IDOL CONVENTION vol.5
 DTSTART;TZID=Asia/Tokyo:20261101T111500
 DTEND;TZID=Asia/Tokyo:20261101T131500
-DTSTAMP:20261020T230105Z
-UID:mirusen-2026-11-01-3@laviera9.github.io
+DTSTAMP:20261022T230118Z
+UID:mirusen-2026-11-01-4@laviera9.github.io
 DESCRIPTION:開場11:00 / 開演11:15\n料金: 通常3\,000円／前方5\,5
  00円（当日+1\,000円・+1D）\nチケット: https://paylove.org/event
  s/1784\n出典: https://x.com/mirusen_idol/status/2112499816668483884
@@ -51,8 +66,8 @@ BEGIN:VEVENT
 SUMMARY:みるせんっ！ 無銭ぷろじぇくと!! vol.115
 DTSTART;TZID=Asia/Tokyo:20261103T125000
 DTEND;TZID=Asia/Tokyo:20261103T131000
-DTSTAMP:20261020T230105Z
-UID:mirusen-2026-11-03-4@laviera9.github.io
+DTSTAMP:20261022T230118Z
+UID:mirusen-2026-11-03-5@laviera9.github.io
 DESCRIPTION:開場09:40 / 開演09:50\nみるせんっ！出番 12:50\n料
  金: 通常0円／前方2\,500円（当日+1\,000円・+2D）\nチケッ
  ト: https://paylove.org/events/1786\n出典: https://x.com/mirusen_idol/s
