@@ -4,39 +4,26 @@ PRODID:-//mirusen calendar//JP
 X-WR-CALNAME:みるせんっ！ ライブ
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-SUMMARY:みるせんっ！ IDOL CONVENTION vol.5
-DTSTART;TZID=Asia/Tokyo:20261101T113500
-DTEND;TZID=Asia/Tokyo:20261101T115500
-DTSTAMP:20261031T230137Z
-UID:mirusen-2026-11-01-0@laviera9.github.io
-DESCRIPTION:開場11:00 / 開演11:15\nみるせんっ！出番 11:35\n料
- 金: 通常3\,000円／前方5\,500円（当日+1\,000円・+1D）\nチケ
- ット: https://paylove.org/events/1784\n出典: https://x.com/mirusen_ido
- l/status/2116352413687066804
-LOCATION:YOKOHAMA COAST garage +
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:みるせんっ！ ARASHI A GO!! GO!!
-DTSTART;TZID=Asia/Tokyo:20261101T205500
-DTEND;TZID=Asia/Tokyo:20261101T211500
-DTSTAMP:20261031T230137Z
-UID:mirusen-2026-11-01-1@laviera9.github.io
-DESCRIPTION:開場15:30 / 開演15:45\nみるせんっ！出番 20:55\n料
- 金: 前方1\,600円／後方0円（当日 前方2\,600円／後方1\,600
- 円・+2D）\nチケット: https://ticketdive.com/event/XhN47iFETXERFH\n
- 出典: https://x.com/mirusen_idol/status/2116350765438812317
-LOCATION:新宿ARASHI
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:みるせんっ！ 無銭ぷろじぇくと!! vol.115
 DTSTART;TZID=Asia/Tokyo:20261103T192500
 DTEND;TZID=Asia/Tokyo:20261103T194500
-DTSTAMP:20261031T230137Z
+DTSTAMP:20261101T225713Z
 UID:mirusen-2026-11-03-2@laviera9.github.io
 DESCRIPTION:開場09:40 / 開演09:50\nみるせんっ！出番 19:25\n料
  金: 通常0円／前方2\,500円（当日+1\,000円・+2D）\nチケッ
  ト: https://paylove.org/events/1786\n出典: https://x.com/mirusen_idol/s
  tatus/2115423255209414768
 LOCATION:GOTANDA G6
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:みるせんっ！ みるせんっ！定期公演（福田ももプ
+ ロデュース・詳細未発表）
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+DTSTAMP:20261101T225713Z
+UID:mirusen-2026-11-23-3@laviera9.github.io
+DESCRIPTION:詳細未発表\n出典: https://x.com/fukuda_momo/status/21169
+ 00936383869011
+LOCATION:会場未発表
 END:VEVENT
 END:VCALENDAR
