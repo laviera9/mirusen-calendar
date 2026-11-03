@@ -4,36 +4,34 @@ PRODID:-//mirusen calendar//JP
 X-WR-CALNAME:みるせんっ！ ライブ
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-SUMMARY:みるせんっ！ 池袋解放区
-DTSTART;TZID=Asia/Tokyo:20261103T155000
-DTEND;TZID=Asia/Tokyo:20261103T161000
-DTSTAMP:20261102T225638Z
-UID:mirusen-2026-11-03-2@laviera9.github.io
-DESCRIPTION:開場15:15 / 開演15:30\nみるせんっ！出番 15:50\n料
- 金: 通常0円（+2D）／前方2\,000円（+1D）（当日+500円）\n
- チケット: https://tiget.net/events/535113\n出典: https://x.com/mirus
- en_idol/status/2117136207771730114
-LOCATION:池袋リヴォイス
+SUMMARY:みるせんっ！ ライブ予定（詳細未発表）
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+DTSTAMP:20261103T225808Z
+UID:mirusen-2026-11-07-4@laviera9.github.io
+DESCRIPTION:詳細未発表\n出典: https://x.com/mirusen_idol/status/2117
+ 592427301417177
+LOCATION:会場未発表
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:みるせんっ！ 無銭ぷろじぇくと!! vol.115
-DTSTART;TZID=Asia/Tokyo:20261103T192500
-DTEND;TZID=Asia/Tokyo:20261103T194500
-DTSTAMP:20261102T225638Z
-UID:mirusen-2026-11-03-3@laviera9.github.io
-DESCRIPTION:開場09:40 / 開演09:50\nみるせんっ！出番 19:25\n料
- 金: 通常0円／前方2\,500円（当日+1\,000円・+2D）\nチケッ
- ト: https://paylove.org/events/1786\n出典: https://x.com/mirusen_idol/s
- tatus/2115423255209414768
-LOCATION:GOTANDA G6
+SUMMARY:みるせんっ！ IDOL InteglatioN-1108-
+DTSTART;TZID=Asia/Tokyo:20261108T151500
+DTEND;TZID=Asia/Tokyo:20261108T171500
+DTSTAMP:20261103T225808Z
+UID:mirusen-2026-11-08-5@laviera9.github.io
+DESCRIPTION:開場15:00 / 開演15:15\n料金: S（前方）3\,500円／A
+ （一般）2\,500円（+1D・当日券あり）\nチケット: https://ti
+ get.net/events/535752\n出典: https://x.com/mirusen_idol/status/211760269
+ 8505998499
+LOCATION:Shibuya Milkyway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:みるせんっ！ みるせんっ！定期公演（福田ももプ
  ロデュース・詳細未発表）
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261102T225638Z
-UID:mirusen-2026-11-23-4@laviera9.github.io
+DTSTAMP:20261103T225808Z
+UID:mirusen-2026-11-23-6@laviera9.github.io
 DESCRIPTION:詳細未発表\n出典: https://x.com/fukuda_momo/status/21169
  00936383869011
 LOCATION:会場未発表
