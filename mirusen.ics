@@ -7,7 +7,7 @@ BEGIN:VEVENT
 SUMMARY:みるせんっ！ IDOL IGNITION vol.5
 DTSTART;TZID=Asia/Tokyo:20261107T140000
 DTEND;TZID=Asia/Tokyo:20261107T142000
-DTSTAMP:20261105T230703Z
+DTSTAMP:20261106T230722Z
 UID:mirusen-2026-11-07-4@laviera9.github.io
 DESCRIPTION:開場12:45 / 開演13:00\nみるせんっ！出番 14:00\n料
  金: 前売2\,500円／当日3\,000円（+1D）\nチケット: https://tig
@@ -19,7 +19,7 @@ BEGIN:VEVENT
 SUMMARY:みるせんっ！ IDOL IGNITION vol.6
 DTSTART;TZID=Asia/Tokyo:20261107T163000
 DTEND;TZID=Asia/Tokyo:20261107T165000
-DTSTAMP:20261105T230703Z
+DTSTAMP:20261106T230722Z
 UID:mirusen-2026-11-07-5@laviera9.github.io
 DESCRIPTION:開場16:15 / 開演16:30\nみるせんっ！出番 16:30\n料
  金: 前売2\,500円／当日3\,000円（+1D）\nチケット: https://tig
@@ -28,23 +28,35 @@ DESCRIPTION:開場16:15 / 開演16:30\nみるせんっ！出番 16:30\n料
 LOCATION:Shinjuku HEIST
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:みるせんっ！ ARASHI A GO!! GO!!
+DTSTART;TZID=Asia/Tokyo:20261108T114000
+DTEND;TZID=Asia/Tokyo:20261108T120000
+DTSTAMP:20261106T230722Z
+UID:mirusen-2026-11-08-6@laviera9.github.io
+DESCRIPTION:開場11:00 / 開演11:20\nみるせんっ！出番 11:40\n料
+ 金: 前方1\,600円／後方0円（当日 前方2\,600円／後方1\,600
+ 円・+2D）\nチケット: https://ticketdive.com/event/ARASHIAGOGO1108\n
+ 出典: https://x.com/mirusen_idol/status/2118645464627335377
+LOCATION:新宿ARASHI
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:みるせんっ！ IDOL InteglatioN-1108-
 DTSTART;TZID=Asia/Tokyo:20261108T151500
-DTEND;TZID=Asia/Tokyo:20261108T171500
-DTSTAMP:20261105T230703Z
-UID:mirusen-2026-11-08-6@laviera9.github.io
-DESCRIPTION:開場15:00 / 開演15:15\n料金: S（前方）3\,500円／A
- （一般）2\,500円（+1D・当日券あり）\nチケット: https://ti
- get.net/events/535752\n出典: https://x.com/mirusen_idol/status/211760269
- 8505998499
+DTEND;TZID=Asia/Tokyo:20261108T153500
+DTSTAMP:20261106T230722Z
+UID:mirusen-2026-11-08-7@laviera9.github.io
+DESCRIPTION:開場15:00 / 開演15:15\nみるせんっ！出番 15:15\n料
+ 金: S（前方）3\,500円／A（一般）2\,500円（+1D・当日券あ
+ り）\nチケット: https://tiget.net/events/535752\n出典: https://x.c
+ om/mirusen_idol/status/2118650307026821169
 LOCATION:Shibuya Milkyway
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:みるせんっ！ ALL-IN CALL vol.9
 DTSTART;TZID=Asia/Tokyo:20261108T201000
 DTEND;TZID=Asia/Tokyo:20261108T203000
-DTSTAMP:20261105T230703Z
-UID:mirusen-2026-11-08-7@laviera9.github.io
+DTSTAMP:20261106T230722Z
+UID:mirusen-2026-11-08-8@laviera9.github.io
 DESCRIPTION:開場10:20 / 開演10:30\nみるせんっ！出番 20:10\n料
  金: 通常1\,500円／前方3\,000円（当日+1\,000円・+1D）\nチケ
  ット: https://paylove.org/events/1792\n出典: https://x.com/mirusen_ido
@@ -55,8 +67,8 @@ BEGIN:VEVENT
 SUMMARY:みるせんっ！ キミ推しフェス vol.171
 DTSTART;TZID=Asia/Tokyo:20261114T094500
 DTEND;TZID=Asia/Tokyo:20261114T114500
-DTSTAMP:20261105T230703Z
-UID:mirusen-2026-11-14-8@laviera9.github.io
+DTSTAMP:20261106T230722Z
+UID:mirusen-2026-11-14-9@laviera9.github.io
 DESCRIPTION:開場09:35 / 開演09:45\n料金: 前方3\,500円／通常2\,5
  00円（ドリンク代別）\nチケット: https://paylove.org/events/17
  94\n出典: https://x.com/_KMonster/status/2117881198525685760
@@ -67,10 +79,10 @@ SUMMARY:みるせんっ！ みるせんっ！定期公演（福田ももプ
  ロデュース・詳細未発表）
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261105T230703Z
-UID:mirusen-2026-11-23-9@laviera9.github.io
-DESCRIPTION:詳細未発表\n出典: https://x.com/fukuda_momo/status/21169
- 00936383869011
-LOCATION:会場未発表
+DTSTAMP:20261106T230722Z
+UID:mirusen-2026-11-23-10@laviera9.github.io
+DESCRIPTION:詳細未発表\n出典: https://x.com/wakui_mito_/status/21118
+ 38925308527068
+LOCATION:秋葉原ZEST
 END:VEVENT
 END:VCALENDAR
