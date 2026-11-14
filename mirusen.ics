@@ -4,47 +4,24 @@ PRODID:-//mirusen calendar//JP
 X-WR-CALNAME:みるせんっ！ ライブ
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-SUMMARY:みるせんっ！ キミ推しフェス vol.171
-DTSTART;TZID=Asia/Tokyo:20261114T113500
-DTEND;TZID=Asia/Tokyo:20261114T115500
-DTSTAMP:20261113T230352Z
-UID:mirusen-2026-11-14-9@laviera9.github.io
-DESCRIPTION:開場09:20 / 開演09:30\nみるせんっ！出番 11:35\n料
- 金: 通常2\,500円／前方3\,500円（当日+1\,000円・+1D）\nチケ
- ット: https://paylove.org/events/1794\n出典: https://x.com/mirusen_ido
- l/status/2119414862187303096
-LOCATION:GOTANDA G3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:みるせんっ！ ARASHI A GO!! GO!!
-DTSTART;TZID=Asia/Tokyo:20261114T142500
-DTEND;TZID=Asia/Tokyo:20261114T144500
-DTSTAMP:20261113T230352Z
-UID:mirusen-2026-11-14-10@laviera9.github.io
-DESCRIPTION:開場11:40 / 開演12:00\nみるせんっ！出番 14:25\n料
+DTSTART;TZID=Asia/Tokyo:20261115T144000
+DTEND;TZID=Asia/Tokyo:20261115T150000
+DTSTAMP:20261114T230349Z
+UID:mirusen-2026-11-15-12@laviera9.github.io
+DESCRIPTION:開場13:45 / 開演14:00\nみるせんっ！出番 14:40\n料
  金: 前方1\,600円／後方0円（当日 前方2\,600円／後方1\,600
- 円・+2D）\n出典: https://x.com/mirusen_idol/status/212047160010966229
- 0
+ 円・+2D）\n出典: https://x.com/mirusen_idol/status/212139574641520279
+ 4
 LOCATION:新宿ARASHI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:みるせんっ！ 池袋解放区
-DTSTART;TZID=Asia/Tokyo:20261114T180000
-DTEND;TZID=Asia/Tokyo:20261114T182000
-DTSTAMP:20261113T230352Z
-UID:mirusen-2026-11-14-11@laviera9.github.io
-DESCRIPTION:開場16:45 / 開演17:00\nみるせんっ！出番 18:00\n料
- 金: 通常0円（+2D）／前方2\,000円（+1D）（当日+500円）\n
- 出典: https://x.com/mirusen_idol/status/2121142266932961430
-LOCATION:池袋リヴォイス
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:みるせんっ！ みるせんっ！定期公演（新曲発表・
  ツーステ曲披露）
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261113T230352Z
-UID:mirusen-2026-11-23-12@laviera9.github.io
+DTSTAMP:20261114T230349Z
+UID:mirusen-2026-11-23-13@laviera9.github.io
 DESCRIPTION:詳細未発表\n出典: https://x.com/mirusen_idol/status/2119
  428026056446361
 LOCATION:秋葉原ZEST
