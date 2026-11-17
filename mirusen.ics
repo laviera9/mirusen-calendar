@@ -4,26 +4,16 @@ PRODID:-//mirusen calendar//JP
 X-WR-CALNAME:みるせんっ！ ライブ
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
-SUMMARY:みるせんっ！ ARASHI A GO!! GO!!
-DTSTART;TZID=Asia/Tokyo:20261115T144000
-DTEND;TZID=Asia/Tokyo:20261115T150000
-DTSTAMP:20261114T230349Z
-UID:mirusen-2026-11-15-12@laviera9.github.io
-DESCRIPTION:開場13:45 / 開演14:00\nみるせんっ！出番 14:40\n料
- 金: 前方1\,600円／後方0円（当日 前方2\,600円／後方1\,600
- 円・+2D）\n出典: https://x.com/mirusen_idol/status/212139574641520279
- 4
-LOCATION:新宿ARASHI
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:みるせんっ！ みるせんっ！定期公演（新曲発表・
- ツーステ曲披露）
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-DTSTAMP:20261114T230349Z
+SUMMARY:みるせんっ！ みるせんっ！定期公演 福田ももプ
+ ロデュース『にゃんステ☆パニックZERO公開記念ネコ耳
+ ライブ』
+DTSTART;TZID=Asia/Tokyo:20261123T180000
+DTEND;TZID=Asia/Tokyo:20261123T200000
+DTSTAMP:20261117T225805Z
 UID:mirusen-2026-11-23-13@laviera9.github.io
-DESCRIPTION:詳細未発表\n出典: https://x.com/mirusen_idol/status/2119
- 428026056446361
+DESCRIPTION:開場17:45 / 開演18:00\n料金: S（前方）4\,000円／A
+ （一般）2\,000円＋各1D（当日+500円）\n出典: https://x.com/mi
+ rusen_idol/status/2122691616750387518
 LOCATION:秋葉原ZEST
 END:VEVENT
 END:VCALENDAR
