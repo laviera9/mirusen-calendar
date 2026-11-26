@@ -4,11 +4,23 @@ PRODID:-//mirusen calendar//JP
 X-WR-CALNAME:みるせんっ！ ライブ
 X-WR-TIMEZONE:Asia/Tokyo
 BEGIN:VEVENT
+SUMMARY:みるせんっ！ ARASHI A GO!! GO!!
+DTSTART;TZID=Asia/Tokyo:20261128T142500
+DTEND;TZID=Asia/Tokyo:20261128T144500
+DTSTAMP:20261126T225853Z
+UID:mirusen-2026-11-28-16@laviera9.github.io
+DESCRIPTION:開場11:15 / 開演11:30\nみるせんっ！出番 14:25\n料
+ 金: 前方1\,600円／後方0円（当日 前方2\,600円／後方1\,600
+ 円・+2D）\nチケット: https://t-dv.com/ARASHIAGOGO1128\n出典: http
+ s://x.com/mirusen_idol/status/2125911034603139559
+LOCATION:新宿ARASHI
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:みるせんっ！ 無銭ぷろじぇくと!! vol.120
 DTSTART;TZID=Asia/Tokyo:20261128T185500
 DTEND;TZID=Asia/Tokyo:20261128T191500
-DTSTAMP:20261125T230157Z
-UID:mirusen-2026-11-28-16@laviera9.github.io
+DTSTAMP:20261126T225853Z
+UID:mirusen-2026-11-28-17@laviera9.github.io
 DESCRIPTION:開場09:40 / 開演09:55\nみるせんっ！出番 18:55\n料
  金: 通常0円／前方2\,500円（当日+1\,000円・+2D）\nチケッ
  ト: https://paylove.org/events/1802\n出典: https://x.com/mirusen_idol/s
@@ -19,19 +31,41 @@ BEGIN:VEVENT
 SUMMARY:みるせんっ！ S.I.M.P Vol.19-Circuit-（出番未発表）
 DTSTART;TZID=Asia/Tokyo:20261129T110000
 DTEND;TZID=Asia/Tokyo:20261129T130000
-DTSTAMP:20261125T230157Z
-UID:mirusen-2026-11-29-17@laviera9.github.io
+DTSTAMP:20261126T225853Z
+UID:mirusen-2026-11-29-18@laviera9.github.io
 DESCRIPTION:開場10:40 / 開演11:00\n料金: 前売2\,800円（別途1D
  代）\n出典: https://x.com/mirusen_idol/status/2125546511463498128
 LOCATION:新宿Club SCIENCE/新宿HEIST（2会場連動）
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:みるせんっ！ キミ推しフェス vol.174
+DTSTART;TZID=Asia/Tokyo:20261212T093000
+DTEND;TZID=Asia/Tokyo:20261212T113000
+DTSTAMP:20261126T225853Z
+UID:mirusen-2026-12-12-19@laviera9.github.io
+DESCRIPTION:開場09:20 / 開演09:30\n料金: 通常2\,500円／前方3\,5
+ 00円（当日+1\,000円・+1D）\nチケット: https://paylove.org/event
+ s/1810\n出典: https://x.com/mirusen_idol/status/2125913053501988972
+LOCATION:GOTANDA G3
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:みるせんっ！ 楽演祭 vol.46
+DTSTART;TZID=Asia/Tokyo:20261216T182500
+DTEND;TZID=Asia/Tokyo:20261216T202500
+DTSTAMP:20261126T225853Z
+UID:mirusen-2026-12-16-20@laviera9.github.io
+DESCRIPTION:開場17:45 / 開演18:25\n料金: 一般5\,000円（+1D別）\
+ nチケット: https://tiget.net/events/539493\n出典: https://x.com/miru
+ sen_idol/status/2125914285025153292
+LOCATION:池袋LiveinnROSA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:みるせんっ！ 和久井美兎プロデュース公演（詳細
  未発表）
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
-DTSTAMP:20261125T230157Z
-UID:mirusen-2026-12-20-18@laviera9.github.io
+DTSTAMP:20261126T225853Z
+UID:mirusen-2026-12-20-21@laviera9.github.io
 DESCRIPTION:詳細未発表\n出典: https://x.com/mirusen_idol/status/2124
  874054582866177
 LOCATION:秋葉原コズミックラボ
@@ -41,8 +75,8 @@ SUMMARY:みるせんっ！ ATLEPY 那月仁美生誕祭（出番未発表
  ）
 DTSTART;TZID=Asia/Tokyo:20261226T103000
 DTEND;TZID=Asia/Tokyo:20261226T123000
-DTSTAMP:20261125T230157Z
-UID:mirusen-2026-12-26-19@laviera9.github.io
+DTSTAMP:20261126T225853Z
+UID:mirusen-2026-12-26-22@laviera9.github.io
 DESCRIPTION:開場10:10 / 開演10:30\n料金: 前売2\,800円／当日3\,3
  00円（D代700円別）\n出典: https://x.com/mirusen_idol/status/212485
  0456950100000
@@ -52,8 +86,8 @@ BEGIN:VEVENT
 SUMMARY:みるせんっ！ 和久井美兎生誕祭（詳細未発表）
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
-DTSTAMP:20261125T230157Z
-UID:mirusen-2026-12-27-20@laviera9.github.io
+DTSTAMP:20261126T225853Z
+UID:mirusen-2026-12-27-23@laviera9.github.io
 DESCRIPTION:詳細未発表\n出典: https://x.com/mirusen_idol/status/2124
  874054582866177
 LOCATION:秋葉原コズミックラボ
